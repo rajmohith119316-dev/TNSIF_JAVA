@@ -4,6 +4,7 @@ public class VariableDemo {
 	int var=10;
 	void print() {
 		String msg="HI";
+		System.out.println(msg);
 	}
 	static String messi="Hello World";
 	public static void main(String[] args) {
@@ -12,5 +13,4 @@ public class VariableDemo {
 	 vd.print();
 	 System.out.println(messi);
 	}
-
 }

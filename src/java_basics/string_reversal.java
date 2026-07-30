@@ -9,5 +9,6 @@ public static void main(String [] preran) {
 	StringBuilder s=new StringBuilder();
 	s.append(sc.next());
 	System.out.println(s.reverse().equals(s));
+	sc.close();
 }
 }  

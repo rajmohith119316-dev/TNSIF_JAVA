@@ -22,6 +22,7 @@ public class Scanner_class_demo {
 		System.out.println("Index is :"+index);
 		System.out.println("charAT:"+c);
 		sc.close();
+		System.out.println(Age);
 	}
 
 }

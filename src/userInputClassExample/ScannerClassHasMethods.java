@@ -26,7 +26,7 @@ public class ScannerClassHasMethods {
 					}
 					else
 					{
-						String stringvalue =scan.next();
+						
 						System.out.println("Unkown input");
 					}
 				}
